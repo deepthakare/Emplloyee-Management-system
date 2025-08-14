@@ -1,5 +1,4 @@
 # Emplloyee-Management-system
-# Employee Management System
 
 A full-featured **Employee Management System** designed to help organizations manage employee data, track performance, and streamline HR operations. This project is built using React.js, Node.js, Express.js.
 
